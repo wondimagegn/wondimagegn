@@ -22,8 +22,11 @@ I mentor students and junior developers in translating requirements into working
 
 I have advised student projects on:
 
-- Comparative Analysis of Machine Learning Algorithms for Crop-Yield Prediction.
-- WebSockets vs. Server-Sent Events (SSE) for Real-Time Web Applications.
+-  Building Next Generation University ERP System
+-  Building Distributed Log Analysis and Interpretation System Using Message Broker and Distributed computing
+-  Testing and Validation of Student Developed AI Project
+-  Comparative Analysis of Machine Learning Algorithms for Crop-Yield Prediction.
+-  WebSockets vs. Server-Sent Events (SSE) for Real-Time Web Applications.
 
 These advising topics connect applied machine learning and distributed web systems with comparative evaluation.
 
