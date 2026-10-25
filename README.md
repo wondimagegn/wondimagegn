@@ -3,7 +3,7 @@
 **Lecturer, Department of Computer Science, Addis Ababa University**
 Software developer and technical project lead | Addis Ababa, Ethiopia
 
-I teach computer science and build software for education, public services and institutional operations. My work connects classroom teaching with practical system design, implementation, testing and deployment. I hold a master's degree in Computer Science from Vrije University.
+I teach computer science and build software for education, public services and institutional operations. My work connects classroom teaching with practical system design, implementation, testing and deployment. I hold a master's degree in Computer Science from Vrije Universiteit Amsterdam.
 
 [Academic and professional CV](CV.md) | [Detailed engineering portfolio](PORTFOLIO.md) | [MADAALA](https://github.com/wondimagegn/MADAALA)
 

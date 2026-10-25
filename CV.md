@@ -12,7 +12,7 @@ Computer science lecturer, software developer and technical project lead working
 
 ## Education
 
-**Master's degree in Computer Science - Vrije University**
+**Master's degree in Computer Science - Vrije Universiteit Amsterdam**
 
 ## Academic appointment and teaching
 
