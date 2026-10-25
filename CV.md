@@ -24,6 +24,7 @@ Courses taught:
 - Software Quality Assurance and Testing.
 - Web Programming.
 - Software Requirements Analysis.
+- Wireless Communication and Mobile Computing
 
 Teaching and mentorship connect computing concepts with practical software projects, including requirements interpretation, backend and frontend development, database design, testing and deployment.
 
@@ -31,8 +32,11 @@ Teaching and mentorship connect computing concepts with practical software proje
 
 Experience advising students on comparative computing studies, including:
 
-- **Comparative Analysis of Machine Learning Algorithms for Crop-Yield Prediction** - student work comparing machine learning approaches for an agricultural prediction task.
-- **WebSockets vs. Server-Sent Events (SSE) for Real-Time Web Applications** - student work comparing communication approaches for real-time applications.
+- Building Next Generation University ERP System
+- Building Distributed Log Analysis and Interpretation System Using Message Broker and Distributed computing
+- Testing and Validation of Student Developed AI Project
+- Comparative Analysis of Machine Learning Algorithms
+- WebSockets for Real-Time Web Applications.
 
 This supervision complements teaching in software requirements, distributed systems and software quality, and informs the proposed student-mentorship role in MADAALA.
 
