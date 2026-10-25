@@ -10,6 +10,10 @@ GitHub: [github.com/wondimagegn](https://github.com/wondimagegn)
 
 Computer science lecturer, software developer and technical project lead working across higher-education systems, institutional software and public-service platforms. Teaching covers distributed systems programming, software quality assurance and testing, web programming, and software requirements analysis. Current research interests include human-grounded multilingual AI evaluation and reproducible evaluation infrastructure for Ethiopian languages.
 
+## Education
+
+**Master's degree in Computer Science - Vrije University**
+
 ## Academic appointment and teaching
 
 **Lecturer - Department of Computer Science, Addis Ababa University**
@@ -22,6 +26,15 @@ Courses taught:
 - Software Requirements Analysis.
 
 Teaching and mentorship connect computing concepts with practical software projects, including requirements interpretation, backend and frontend development, database design, testing and deployment.
+
+## Student advising and research supervision
+
+Experience advising students on comparative computing studies, including:
+
+- **Comparative Analysis of Machine Learning Algorithms for Crop-Yield Prediction** - student work comparing machine learning approaches for an agricultural prediction task.
+- **WebSockets vs. Server-Sent Events (SSE) for Real-Time Web Applications** - student work comparing communication approaches for real-time applications.
+
+This supervision complements teaching in software requirements, distributed systems and software quality, and informs the proposed student-mentorship role in MADAALA.
 
 ## Proposed research leadership
 
@@ -45,7 +58,7 @@ Methodology: [Research design and analysis](https://github.com/wondimagegn/MADAA
 
 **Founder / Manager - IT and T Solutions PLC**
 
-Software development and technical project leadership for education, institutional operations and business platforms. Areas of work include system architecture, requirements interpretation, backend APIs, Angular interfaces, relational data modeling, access control, reporting and Linux-based deployment.
+Industrial experience in software development and technical project leadership for education, institutional operations and business platforms. Areas of work include system architecture, requirements interpretation, backend APIs, Angular interfaces, relational data modeling, access control, reporting and Linux-based deployment.
 
 Project leadership includes coordinating backend and frontend changes, reviewing contributions, supporting junior developers and troubleshooting deployment issues.
 

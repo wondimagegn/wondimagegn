@@ -3,7 +3,7 @@
 **Lecturer, Department of Computer Science, Addis Ababa University**
 Software developer and technical project lead | Addis Ababa, Ethiopia
 
-I teach computer science and build software for education, public services and institutional operations. My work connects classroom teaching with practical system design, implementation, testing and deployment.
+I teach computer science and build software for education, public services and institutional operations. My work connects classroom teaching with practical system design, implementation, testing and deployment. I hold a master's degree in Computer Science from Vrije University.
 
 [Academic and professional CV](CV.md) | [Detailed engineering portfolio](PORTFOLIO.md) | [MADAALA](https://github.com/wondimagegn/MADAALA)
 
@@ -17,6 +17,15 @@ My teaching in the Department of Computer Science includes:
 - Software Requirements Analysis.
 
 I mentor students and junior developers in translating requirements into working applications, designing maintainable systems, testing software and delivering practical projects.
+
+## Student advising
+
+I have advised student projects on:
+
+- Comparative Analysis of Machine Learning Algorithms for Crop-Yield Prediction.
+- WebSockets vs. Server-Sent Events (SSE) for Real-Time Web Applications.
+
+These advising topics connect applied machine learning and distributed web systems with comparative evaluation.
 
 ## Research focus: MADAALA
 
